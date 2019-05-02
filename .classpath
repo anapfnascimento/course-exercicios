@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="exerciciosNivelamento01/|exerciciosNivelamento02/|exerciciosNivelamento03/|exerciciosNivelamento04/|exerciciosReforco/|exerciciosSecao02/exerciciosNivelamento01/|exerciciosSecao02/exerciciosNivelamento02/|exerciciosSecao02/exerciciosNivelamento03/|exerciciosSecao02/exerciciosNivelamento04/|exerciciosSecao02/exerciciosReforco/|exerciciosSecao03/exercicio01/" kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
