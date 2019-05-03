@@ -1,10 +1,10 @@
-package exerciciosSecao07.entities;
+package exerciciosSecao08.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import exerciciosSecao07.entities.enums.WorkerLevel;
+import exerciciosSecao08.entities.enums.WorkerLevel;
 
 public class Worker {
 	private String name;

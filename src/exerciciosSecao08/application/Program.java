@@ -1,4 +1,4 @@
-package exerciciosSecao07.application;
+package exerciciosSecao08.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -6,10 +6,10 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import exerciciosSecao07.entities.Department;
-import exerciciosSecao07.entities.HourContract;
-import exerciciosSecao07.entities.Worker;
-import exerciciosSecao07.entities.enums.WorkerLevel;
+import exerciciosSecao08.entities.Department;
+import exerciciosSecao08.entities.HourContract;
+import exerciciosSecao08.entities.Worker;
+import exerciciosSecao08.entities.enums.WorkerLevel;
 
 public class Program {
 

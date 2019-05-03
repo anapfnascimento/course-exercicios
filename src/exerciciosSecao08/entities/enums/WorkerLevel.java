@@ -1,4 +1,4 @@
-package exerciciosSecao07.entities.enums;
+package exerciciosSecao08.entities.enums;
 
 public enum WorkerLevel {
 	JUNIOR,

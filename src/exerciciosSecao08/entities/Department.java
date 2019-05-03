@@ -1,4 +1,4 @@
-package exerciciosSecao07.entities;
+package exerciciosSecao08.entities;
 
 public class Department {
 	private String name;

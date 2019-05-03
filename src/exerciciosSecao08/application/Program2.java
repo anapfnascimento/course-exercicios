@@ -1,10 +1,10 @@
-package exerciciosSecao07.application;
+package exerciciosSecao08.application;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import exerciciosSecao07.entities.Comment;
-import exerciciosSecao07.entities.Post;
+import exerciciosSecao08.entities.Comment;
+import exerciciosSecao08.entities.Post;
 
 public class Program2 {
 
